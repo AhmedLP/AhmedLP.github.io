@@ -1,12 +1,12 @@
 # Ahmed Louro Provedo
 
 <p>👋 Hi, My name is Ahmed Louro Provedo </p>
-<p>I'm originally from Cuba and I've been living in Chile for over 5 years now.</p></br>
+<p>I'm originally from Cuba and I've been living in Chile for over 5 years now.</br></p>
 
 <p>Accomplished Enterprise Senior Software Engineer, capable of making significant changes in short time span and overpressured, enjoy playing around with Backend Techs.
 Big challenges and on-going improvement processes are my professional "must-stand-for" goals.
 High analytic and learning skills, with a natural leadership and very good communication and teamwork expertises. 
-I've been involved in the software developing process for over 10 years with different technologies and plattforms.</p></br>
+I've been involved in the software developing process for over 10 years with different technologies and plattforms.</br></p>
 
 ▶️⏸️⏪⏩ I enjoy playing around with Backend Techs.
 

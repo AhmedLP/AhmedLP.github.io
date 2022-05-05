@@ -10,6 +10,18 @@ High analytic and learning skills, with a natural leadership and very good commu
 I've been involved in the software developing process for over 10 years with different technologies and plattforms.</p>
 
 ▶️⏸️⏪⏩ I enjoy playing around with Backend Techs.
+```
+  while(!dead)
+  {
+    code();
+    eat();
+    sleep();
+    enjoy();
+
+    if(sad)
+      beHappy();
+  }
+```
 
 👀 I’m currently working at <a href="https://www.linkedin.com/company/tannercl/">Tanner</a> (Financial Services Corp) as a Senior Software Developer. 
 

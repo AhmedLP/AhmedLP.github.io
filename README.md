@@ -13,7 +13,7 @@ I've been involved in the software developing process for over 10 years with dif
 
 👀 I’m currently working at <a href="https://www.linkedin.com/company/tannercl/">Tanner</a> (Financial Services Corp) as a Senior Software Developer. 
 
-🌩️ Azure Cloud and Microsoft Visual Studio C# Senior Developer for over 5 years.
+🌩️ Azure Cloud and .NET C# Senior Software Developer for over 5 years.
 
 ⚛️ **Expertise:**
 - Software development.

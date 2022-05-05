@@ -1,7 +1,6 @@
 # Ahmed Louro Provedo
 
-👋 Hi, 
-My name is Ahmed Louro Provedo </br>
+👋 Hi, My name is Ahmed Louro Provedo </br>
 I'm originally from Cuba and I've been living in Chile for over 5 years now.
 
 Accomplished Enterprise Senior Software Engineer, capable of making significant changes in short time span and overpressured, enjoy playing around with Backend Techs.
@@ -15,7 +14,7 @@ I've been involved in the software developing process for over 10 years with dif
 
 🌩️ Azure Cloud and Microsoft Visual Studio C# Senior Developer for over 5 years.
 
-⚛️ Expertise:
+⚛️ **Expertise:**
 - Software development.
 - .NET Proficient.
 - Experience with Azure.
@@ -24,7 +23,7 @@ I've been involved in the software developing process for over 10 years with dif
 
 📑 Check out my resume <a href="https://ahmedlp.github.io/AHMED LOURO PROVEDO-CV-ENGLISH.pdf">here</a>
 
-How to reach me: 
+**How to reach me:** 
 
 <p>💼 <a href="https://www.linkedin.com/in/ahmed-louro-provedo/">LinkedIn</a></p>
 <p>🐦 <a href="https://twitter.com/ahmedlp86">Twitter</a></p>

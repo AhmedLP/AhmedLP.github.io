@@ -17,5 +17,5 @@ I've been involved in the software developing process for over 10 years with dif
 
 📫 How to reach me:
 
-<a href="https://www.linkedin.com/in/ahmed-louro-provedo/">LinkedIn</a>
-<a href="https://twitter.com/ahmedlp86">Twitter</a>
+<p>💼<a href="https://www.linkedin.com/in/ahmed-louro-provedo/">LinkedIn</a></p></br>
+<p>🐦<a href="https://twitter.com/ahmedlp86">Twitter</a></p></br>

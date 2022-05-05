@@ -15,14 +15,14 @@ I've been involved in the software developing process for over 10 years with dif
 
 🌩️ Azure Cloud and Microsoft Visual Studio C# Senior Developer for over 5 years.
 
-:atom: Expertise:
+⚛️ Expertise:
 - Software development </br>
 - .NET Proficient </br>
 - Experience with Azure </br> 
 - Highly skilled in building and integrating with APIs and NetCore </br>
 - Expirience with SQL and NoSQL Databases. </br>
 
-Checkout my resume <a href="https://ahmedlp.github.io/AHMED LOURO PROVEDO-CV-ENGLISH.pdf">here</a></br>
+Checkout my resume <a href="https://ahmedlp.github.io/AHMED LOURO PROVEDO-CV-ENGLISH.pdf">here 📑</a></br>
 
 How to reach me: 
 

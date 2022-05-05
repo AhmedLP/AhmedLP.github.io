@@ -10,11 +10,12 @@ I've been involved in the software developing process for over 10 years with dif
 
 👀 I enjoy playing around with Backend Techs.
 
-🌱 I’m currently working at @Tanner (Financial Services Corp) as a Senior Software Developer.
+🌱 I’m currently working at <a href="https://www.linkedin.com/company/tannercl/">Tanner</a> (Financial Services Corp) as a Senior Software Developer.
 
 💞️ Azure Cloud and Microsoft Visual Studio C# Senior Developer for over 5 years.
 
 
-📫 How to reach me
-<a href="LnkedIn">https://www.linkedin.com/in/ahmed-louro-provedo/</a>
+📫 How to reach me:
 
+<a href="https://www.linkedin.com/in/ahmed-louro-provedo/">LinkedIn</a>
+<a href="https://twitter.com/ahmedlp86">Twitter</a>

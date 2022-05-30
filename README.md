@@ -28,11 +28,12 @@ I've been involved in the software developing process for over 10 years with dif
 🌩️ Azure Cloud and .NET C# Senior Software Developer for over 5 years.
 
 ⚛️ **Expertise:**
-- Software development.
 - .NET Proficient.
-- Experience with Azure.
+- Excellent understanding of Cloud, Infrastructure Services, DevOps, and Software Development Services.
+- Experience with Azure Cloud Services such as Azure APIM, Azure Service Bus, AKS, Azure Functions.
+- Experience with Cloud: Docker, Kubernetes.
+- Strong understanding of data structures and experience with relational and NoSql databases.
 - Highly skilled in building and integrating with APIs and NetCore.
-- Expirience with SQL and NoSQL Databases.
 
 📑 Check out my resume <a href="https://ahmedlp.github.io/AHMED LOURO PROVEDO-CV-ENGLISH.pdf">here</a>
 

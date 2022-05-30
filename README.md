@@ -29,9 +29,10 @@ I've been involved in the software developing process for over 10 years with dif
 
 ⚛️ **Expertise:**
 - .NET Proficient.
+- Solid experience with C# object-oriented language.
 - Excellent understanding of Cloud, Infrastructure Services, DevOps, and Software Development Services.
 - Experience with Azure Cloud Services such as Azure APIM, Azure Service Bus, AKS, Azure Functions.
-- Experience with Cloud: Docker, Kubernetes.
+- Experience with Azure cloud infrastructure and overall familiarity with Azure Portal.
 - Strong understanding of data structures and experience with relational and NoSql databases.
 - Highly skilled in building and integrating with APIs and NetCore.
 

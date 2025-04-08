@@ -38,6 +38,7 @@ I've been involved in the software developing process for over 15 years with dif
 - Highly skilled in building and integrating with APIs and NetCore.
 
 📑 Check out my resume <a href="https://ahmedlp.github.io/AHMED LOURO PROVEDO-CV-ENGLISH-2025.pdf">here</a>
+
 📑 Puede revisar mi cv <a href="https://ahmedlp.github.io/AHMED LOURO PROVEDO-CV-SPANISH-2025.pdf">here</a>
 
 **How to reach me:** 

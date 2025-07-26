@@ -23,7 +23,7 @@ I've been involved in the software developing process for over 15 years with dif
   }
 ```
 
-👀 I’m currently working at <a href="https://www.linkedin.com/company/gosocket-corp/posts/?feedView=all" target="_blank">Gosocket Corporation</a> as a Senior Software Developer. 
+👀 I’m currently working at <a href="https://www.linkedin.com/company/gosocket-corp/posts/?feedView=all" target="_blank" rel="noopener noreferrer">Gosocket Corporation</a> as a Senior Software Developer. 
 
 🌩️ Azure Cloud and .NET C# Senior Software Developer for over 8 years.
 

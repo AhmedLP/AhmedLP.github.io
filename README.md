@@ -1,6 +1,10 @@
 # Ahmed Louro Provedo
-![Esta es una imagen](https://ahmedlp.github.io/Captura.PNG)
-<img src="[Esta es otra imagen](https://ahmedlp.github.io/Captura.PNG)" width="250" />
+# .NET | Azure | React
+<p align="left">
+  <img src="./Captura.PNG" width="250" alt="Profile Photo">
+</p>
+
+# Senior Software Engineer | Full Stack Software Engineer | Technical Leader
 
 <p>👋 Hi, My name is Ahmed Louro Provedo </p>
 <p>I'm originally from Cuba and I've been living in Chile for over 9 years now.</p>

@@ -1,5 +1,6 @@
 # Ahmed Louro Provedo
 ![Esta es una imagen](https://ahmedlp.github.io/Captura.PNG)
+<img src="[Esta es otra imagen](https://ahmedlp.github.io/Captura.PNG)" width="250" />
 
 <p>👋 Hi, My name is Ahmed Louro Provedo </p>
 <p>I'm originally from Cuba and I've been living in Chile for over 9 years now.</p>

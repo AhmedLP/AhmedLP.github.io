@@ -27,9 +27,9 @@ Big challenges and on-going improvement processes are my professional "must-stan
 
 👀 I’m currently working at [Gosocket Corporation | A Thomson Reuters Company](https://www.linkedin.com/company/gosocket-corp/posts/?feedView=all) as a Senior Software Developer. 
 
-🌩️ Azure Cloud and Microsoft .NET Senior Developer with over 9 years of hands-on experience.
-🔥 Backend Technical Leader for over 3 years.
-⚛️ Skilled in React and modern frontend technologies with more than 5 years of experience.
+<p>🌩️ Azure Cloud and Microsoft .NET Senior Developer with over 9 years of hands-on experience.</p>
+<p>🔥 Backend Technical Leader for over 3 years.</p>
+<p>⚛️ Skilled in React and modern frontend technologies with more than 5 years of experience.</p>
 
 🎯 **Expertise:**
 - .NET Proficient.

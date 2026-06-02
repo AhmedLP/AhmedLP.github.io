@@ -28,7 +28,7 @@
   }
 ```
 
-👀 I’m currently working at [Gosocket Corporation (A Thomson Reuters Company)](https://www.linkedin.com/company/gosocket-corp/posts/?feedView=all) as a Senior Software Developer. 
+👀 I’m currently working at [Gosocket Corporation-A Thomson Reuters Company](https://www.linkedin.com/company/gosocket-corp/posts/?feedView=all) as a Senior Software Developer. 
 
 <p>🌩️ Azure Cloud and Microsoft .NET Senior Developer with over 9 years of hands-on experience.</p>
 <p>🔥 Backend Technical Leader for over 3 years.</p>
